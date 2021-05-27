@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**pgstorm148/pgstorm148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Creating stuff which will be useful for all.
+- 🌱 I’m currently learning Flutter.
+- 👯 I’m looking to collaborate on Ideas, innovations, tech.
+- 💬 Ask me about anything, i will help if i can.
+- 📫 How to reach me: mailto:gandhiprakhar148@gmail.com
+
+![Visitor Count](https://profile-counter.glitch.me/{pgstorm148}/count.svg)
+
